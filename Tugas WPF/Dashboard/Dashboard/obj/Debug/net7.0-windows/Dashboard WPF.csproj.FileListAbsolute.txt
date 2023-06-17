@@ -1,0 +1,60 @@
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.csproj.AssemblyReference.cache
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF_MarkupCompile.cache
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF_MarkupCompile.lref
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.exe
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.deps.json
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.runtimeconfig.json
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.pdb
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.g.resources
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.AssemblyInfoInputs.cache
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.AssemblyInfo.cs
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.csproj.CoreCompileInputs.cache
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.csproj.CopyComplete
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\refint\Dashboard WPF.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.pdb
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.genruntimeconfig.cache
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\ref\Dashboard WPF.dll
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\App.baml
+C:\Users\MSI USER\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\Semester 6\TUGAS-PBKK\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\De.TorstenMandelkow.MetroChart.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.exe
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.deps.json
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.runtimeconfig.json
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Dashboard WPF.pdb
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\bin\Debug\net7.0-windows\De.TorstenMandelkow.MetroChart.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.csproj.AssemblyReference.cache
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\App.g.cs
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF_MarkupCompile.cache
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF_MarkupCompile.lref
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\App.baml
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.g.resources
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.AssemblyInfoInputs.cache
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.AssemblyInfo.cs
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.csproj.CoreCompileInputs.cache
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.csproj.CopyComplete
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\refint\Dashboard WPF.dll
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.pdb
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\Dashboard WPF.genruntimeconfig.cache
+D:\Kuliah\PBKK\TUGAS-PBKK-main\Dashboard WPF\Dashboard WPF\obj\Debug\net7.0-windows\ref\Dashboard WPF.dll
